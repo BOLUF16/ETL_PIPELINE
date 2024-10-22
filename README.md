@@ -1,7 +1,7 @@
 Overview
 ========
 
- A weather ETL (Extract, Transform, Load) pipeline built using Apache Airflow. The purpose of this pipeline is to fetch weather data for Lagos, Nigeria, transform it, and load it into a PostgreSQL database for storage and analysis. Here’s an overview of the project.
+ A weather ETL (Extract, Transform, Load) pipeline built using Apache Airflow. The purpose of this pipeline is to fetch weather data for Lagos, Nigeria, transform it, and load it into a PostgreSQL database for storage and analysis.
 
 Project Contents
 ================
